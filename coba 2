@@ -1,0 +1,31 @@
+Menu= {
+    "Makanan" : {
+        "Bakso To" : 15.000,
+        "Mie Bakso Super" : 15.000,
+        "Mie Bakso Biasa" : 13.000,
+        "Mie Ayam" : 13.000,
+        "Nasi Goreng Special" : 17.000,
+        "Nasi Goreng Special Hati" : 17.000,
+        "Nasi Goren Biasa" : 13.000,
+        "Gado-Gado" : 13.000,
+        "Gado-Gado Ulek" : 13.000,
+        "Soto Ayam" : 13.000,
+        "Nasi Ayam Lalapan" : 17.000,
+        "Nasi Ayam Geprek" : 17.000,
+        "Nasi Mujair Lalapan": 15.000
+    },
+    "Minuman" : {
+        "Nutrisari" : 5.000,
+        "Nutrisari Susu" : 7.000,
+        "Fanta Susu": 9.000,
+        "Es Teh": 5.000,
+        "Teh Panas": 5.000,
+        "Teh Sosro": 5.000,
+        "Teh Javana": 5.000,
+        "Teh Kotak": 5.000,
+        "Air Mineral": 5.000
+    }
+}
+
+print(Menu["Makanan"])
+print(Menu["Minuman"])
